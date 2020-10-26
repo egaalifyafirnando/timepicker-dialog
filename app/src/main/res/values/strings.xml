@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimePicker Dialog</string>
+    <string name="time_toast" />
+    <string name="timepicker" />
+</resources>
